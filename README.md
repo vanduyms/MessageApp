@@ -1,5 +1,4 @@
 ## Video demo app
-![alt]([https://drive.google.com/file/d/1_cIQenbJXz_mOUEs5QbEHhjG_T_yOHB1/view?usp=drivesdk](https://drive.google.com/file/d/1a9hSS5p0pSd6C5ujqV0cgFYHP9RL6ukc/view?usp=sharing))
 
 
 ## Getting Started
