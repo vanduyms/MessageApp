@@ -1,6 +1,3 @@
-## Video demo app
-
-
 ## Getting Started
 
 **Clone the repo**
