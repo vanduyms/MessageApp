@@ -32,3 +32,5 @@ flutter packages get
 ```bash
 flutter run 
 ```
+
+## If you are using Android deveices, you can install MessageApp.apk in repo which you have installed
