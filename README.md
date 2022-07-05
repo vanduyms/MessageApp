@@ -3,13 +3,13 @@
 **Clone the repo**
 
 ```bash
-git clone 
+git clone https://github.com/vanduyms/MessageApp.git
 ```
 
 **Open the app folder** 
 
 ```bash
-cd [project name]
+cd MessageApp
 ```
 
 **Install package dependencies:**
